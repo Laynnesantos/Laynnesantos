@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laynnesantos
+- 👋 Hi, I’m @Laynnesantos estou cursando programador de sistemas e gosto muito de ajuda as pessoas no que for necessario.
 - 👀 I’m interested in em trabalhos remotos para o desenvolvimento de sites.
 - 🌱 I’m currently learning Python Java e PHP.
 - 💞️ I’m looking to collaborate on procuro colaborar em projetos que me propocionem desafios e apredizagem. 
